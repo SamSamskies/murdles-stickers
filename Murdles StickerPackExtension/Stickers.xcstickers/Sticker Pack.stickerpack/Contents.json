@@ -1,0 +1,56 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Murdles_Sticker_16.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_15.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_17.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_7.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_8.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_6.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_12.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_3.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_4.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_5.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_14.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_13.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_11.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_10.sticker"
+    },
+    {
+      "filename" : "Murdles_Sticker_9.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
